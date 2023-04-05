@@ -15,7 +15,7 @@ The script is suitable for ethical hacking and penetration testing purposes, but
 
 # 1 install git:
     ( apt install git )
-    
+ ![IMG_20230405_143529](https://user-images.githubusercontent.com/122730895/230036308-462f9a68-71ca-4d4a-9b67-36895c5ee65e.png)
     
     
 # 2 cmd: git clone ( copy paste the given code )    
