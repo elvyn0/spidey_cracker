@@ -13,19 +13,21 @@ The script is suitable for ethical hacking and penetration testing purposes, but
 
 # installation
 
-# 1 install git:
+# 1 i nstall git:
     ( apt install git )
  ![IMG_20230405_143529](https://user-images.githubusercontent.com/122730895/230036308-462f9a68-71ca-4d4a-9b67-36895c5ee65e.png)
     
     
-# 2 cmd: git clone ( copy paste the given code )    
+# 2  cmd: git clone ( copy paste the given code )    
 
-# 3 cd spidey_cracker
+# 3  cd spidey_cracker
+![IMG_20230405_143606](https://user-images.githubusercontent.com/122730895/230036944-3a8588ab-acae-4d96-ba00-7d5be3755015.png)
 
-# 4 python3 spidey.py
+# 4  python3 spidey.py
+![IMG_20230405_143636](https://user-images.githubusercontent.com/122730895/230037065-9c4dc359-f1c3-4fb0-b2b4-a0bdb71ce1c0.png)
 
-# 5 Enter the hash  type 
+# 5  Enter the hash  type 
 
-# 6 mention the path of wordlist
+# 6  mention the path of wordlist
 
 # 7 and finally input the hash value.
