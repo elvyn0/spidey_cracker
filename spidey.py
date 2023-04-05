@@ -5,7 +5,7 @@ import pyfiglet
 ascii_banner = pyfiglet.figlet_format("SPIDEY HASH CRACKER")
 print(ascii_banner)
 
-welcoming = input("welcome to spidey world: ")
+welcoming = input("welcome to the spidey world: ")
 
 print("Algorithms available: MD5 | SHA1 |  SHA224 | SHA512 | SHA256 | SHA384")
 
